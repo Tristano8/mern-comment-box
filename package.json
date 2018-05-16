@@ -1,0 +1,11 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "description": "Facebook Comments Box with MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
