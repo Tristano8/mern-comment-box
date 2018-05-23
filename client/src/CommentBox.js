@@ -84,8 +84,6 @@ class CommentBox extends Component {
                 author,
                 text,
                 _id: Date.now().toString(),
-                updatedAt: new Date(),
-                createdAt: new Date()
             },
         ];
         this.setState({ data });
